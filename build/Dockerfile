@@ -1,4 +1,4 @@
-FROM aguamala/ansible:2.0.1
+FROM aguamala/ansible:2.2.0
 MAINTAINER "gabo" <aguamala@deobieta.com>
 
 RUN echo "===> Installing git..."        && \
